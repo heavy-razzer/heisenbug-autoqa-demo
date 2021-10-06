@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<!--
+Used to compile the the project by running mvn install command without running any programs/tests
+Nice for building docker image with tests
+-->
+<suite name="Empty test suite">
+    <test name="Empty suite"/>
+</suite>

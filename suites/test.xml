@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Mobile UI Tests">
+    <parameter name="deviceName" value="ipad_sim"/> <!-- android / ipad_sim / cloud_android / cloud_iphone -->
+    <parameter name="runner" value="local"/> <!-- local / cloud -->
+    <test name="TEST suite">
+        <groups>
+            <run>
+                <include name="ios"/> <!-- android / ios -->
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.demoApp.signIn.SignInTest"/>
+        </classes>
+    </test>
+</suite>
