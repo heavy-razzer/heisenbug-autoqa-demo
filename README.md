@@ -6,7 +6,8 @@ autoqa heisenbug demo
 
 https://heisenbug-moscow.ru/2021/msk/talks/7ezu7wuwrkz1ryfzlzftgi/
 
-
+Слайды:
+https://docs.google.com/presentation/d/19poDpXi182jH6PlXXzJWd_WQPg8m2FaquhnUCg0cJuY/edit?usp=sharing
 
 Автор: Мирошниченко Михаил
 
